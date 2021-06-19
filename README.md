@@ -2,7 +2,7 @@
 
 🔭 Be with the Army ( 20. 06 .08 ~ 21. 12 .07 ) 
 
-Yonsei Computer Science (graduated on 21.02 / 4.3)
+⚡ Yonsei Computer Science (graduated on 21.02 , 3.7 / 4.3)
 
 - Tizen developing (Operating system lab internship / 2014 summer)
 - Android developing (MintTech , 2014.09~2014.11)
@@ -12,7 +12,7 @@ Yonsei Computer Science (graduated on 21.02 / 4.3)
 - Study 'patent attorney' examination ( 16.06 ~ 19.03 )
 - Being developer ( 19.06 ~ )
 
-
+⚡ Developing History
 
 <!--
 **Songycs/Songycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
