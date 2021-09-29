@@ -1,7 +1,5 @@
 ### Yeonghun Song👋
 
-🔭 Be with the Army ( 20. 06 .08 ~ 21. 12 .07 ) 
-
 ⚡ Yonsei Computer Science (graduated on 21.02 , 3.7 / 4.3)
 
 - Android developing (MintTech , 2014.09~2014.11)
@@ -11,6 +9,7 @@
 - 2nd on Software Capstone Design 2 - managing mobile device battery (2015 winter)
 - Study 'patent attorney' examination ( 16.06 ~ 19.03 )
 - Being developer ( 19.06 ~ )
+- Military service (20.06~21.09)
 
 ⚡ Developing History
 
