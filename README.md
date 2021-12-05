@@ -27,7 +27,7 @@
 ---------
 💬 Portfolio ...
 
- - [LINK](https://www.notion.so/HUNI-Portfolio-23087803d15643299fe27bb0a79e28ed)
+ - [LINK](https://thorn-cave-a56.notion.site/HUNI-Portfolio-23087803d15643299fe27bb0a79e28ed)
 
 <!--
 **Songycs/Songycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
