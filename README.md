@@ -12,9 +12,9 @@
 ---------
 ⚡ Developing History
 
-- [ZIBEZI](www.github.com/Songycs/Zibezi)
-- [Animate](www.github.com/Songycs/Animate)
-- [Gmoney](www.github.com/Songycs/gmoney)
+- [ZIBEZI](https://github.com/Songycs/Zibezi)
+- [Animate](https://github.com/Songycs/Animate)
+- [Gmoney](https://github.com/Songycs/Gmoney)
 ---------
 🌱 Learning ...
 
